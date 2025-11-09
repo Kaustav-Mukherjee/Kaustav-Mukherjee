@@ -2,28 +2,35 @@
 
 ## I'm **Kaustav** ✨  
 
-### ⚙️ Crafting **testbenches** by day, 🧩 debugging **reality** by night, and ☕ running entirely on **coffee**.
+### 🎨 Designing pixels, ⚙️ wiring circuits, and ☕ surviving on dangerously strong coffee.
 
-I'm currently juggling college lectures, simulation logs, and the eternal quest to make *testbenches behave*.  
-When I’m not deep-diving into waveforms, you’ll probably find me exploring new tech, building side projects, or debugging life itself. 😅
+Currently balancing college, caffeine, and the chaotic art of making simulations “just work.”
+When I’m not staring at waveforms, I’m usually tinkering with side projects or debugging reality itself.😅
 
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustav-mukherjee-471a21219/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaustavmukherjee2023@gmail.com)
 
 ### 🚀 What I'm Up To
-- 🧩 Exploring the art (and science) of **Design Verification**
-- 🔍 Learning **SystemVerilog**, **UVM**, and other verification magic
-- 🧠 Expanding my skills one bug fix at a time
-- ⚡ Trying to make my college projects *actually pass synthesis* 😜
+-🧩 Deep-diving into DV, because someone has to make chips behave.
+
+-🔍 Leveling up in SystemVerilog/UVM while sketching ideas in Figma in my breaks.
+
+-🤖 Experimenting with robotics builds that never work on the first try (tradition).
+
+-🎨 Turning technical chaos into clean graphics and visuals whenever I need a breather.
+
+-⚡ Hoping my projects pass synthesis without sacrificing their dignity 😜
 
 ### 🧠 A bit about me
-- 🎯 Passionate about chip design, logic, and all things hardware  
-- 💬 Love connecting with people who geek out over circuits and code  
-- 🧃 Thrives on good music, clean waveforms, and late-night coding sessions
+-🎯 A weird mix of VLSI nerd, design enthusiast, and robotics tinkerer—and proud of it.
+
+-💬 Always up for a conversation about circuits, code, or creative visuals.
+
+-🧃 Runs on playlists, simulation logs, and midnight creativity.
+
 
 ### 🧠 Tech Stack
-
 #### 💻 Programming & Scripting
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

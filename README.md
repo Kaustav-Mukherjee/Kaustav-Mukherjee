@@ -98,7 +98,8 @@ Nava Nalanda High School
 
 <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+
 <img src="https://img.icons8.com/fluency/96/cursor-ai.png" height="50"/>
 
 <img src="https://img.shields.io/badge/Framer-333333?style=for-the-badge&logo=framer&logoColor=white"/>

@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kaustav</h1>
+<h1 align="left">Hi 👋, I'm Kaustav</h1>
 
-<p align="center">
+<p align="left">
 Building websites and exploring data analytics
 </p>
 
-<p align="center">
+<p align="left">
 I enjoy turning ideas into simple web experiences and transforming messy datasets into clean insights.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kaustav-Mukherjee&label=Profile%20views&color=grey&style=flat" />
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Kaustav-Mukherjee&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -59,17 +59,10 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 ### Data & Analytics
 
-<p>
-
-<img src="https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoft-excel"/>
-
-<img src="https://img.shields.io/badge/PowerBI-333333?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/PopSQL-333333?style=for-the-badge"/>
-
-</p>
+<a><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="50"/></a>
+<a href="#"><img src="https://img.icons8.com/color/96/power-bi.png" height="55"/></a>
+<a href="#"><img src="https://img.icons8.com/color/96/tableau-software.png" height="55"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/96/sql.png" height="55"/></a>
 
 ---
 
@@ -77,15 +70,22 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
+<p>
 
-<img src="https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 
-<img src="https://img.shields.io/badge/Framer-333333?style=for-the-badge&logo=framer"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-<img src="https://img.shields.io/badge/Cursor-333333?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
+
+
+<img src="https://img.icons8.com/fluency/96/cursor-ai.png" height="50"/>
+
+<img src="https://img.shields.io/badge/Framer-333333?style=for-the-badge&logo=framer&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Antigravity-333333?style=for-the-badge"/>
+
+</p>
 
 </p>
 
@@ -95,9 +95,9 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaustav-Mukherjee&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaustav-Mukherjee&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Mukherjee&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Mukherjee&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -107,7 +107,7 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustav-Mukherjee&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustav-Mukherjee&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -117,7 +117,7 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustav-Mukherjee&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustav-Mukherjee&theme=react-dark&hide_border=true"/>
 
 </p>
 

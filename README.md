@@ -1,62 +1,138 @@
-# 👋 Hey there!  
+<h1 align="center">Hi 👋, I'm Kaustav</h1>
 
-## I'm **Kaustav** ✨  
+<p align="center">
+Building websites and exploring data analytics
+</p>
 
-### 🎨 Designing pixels, ⚙️ wiring circuits, and ☕ surviving on dangerously strong coffee.
+<p align="center">
+I enjoy turning ideas into simple web experiences and transforming messy datasets into clean insights.
+</p>
 
-Currently balancing college, caffeine, and the chaotic art of making simulations “just work.”
-When I’m not staring at waveforms, I’m usually tinkering with side projects or debugging reality itself.😅
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kaustav-Mukherjee&label=Profile%20views&color=grey&style=flat" />
+</p>
 
-### 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustav-mukherjee-471a21219/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaustavmukherjee2023@gmail.com)
+---
 
-### 🚀 What I'm Up To
--🧩 Deep-diving into DV, because someone has to make chips behave.
+# 📫 Connect With Me
 
--🔍 Leveling up in SystemVerilog/UVM while sketching ideas in Figma in my breaks.
+<p>
 
--🤖 Experimenting with robotics builds that never work on the first try (tradition).
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
--🎨 Turning technical chaos into clean graphics and visuals whenever I need a breather.
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
--⚡ Hoping my projects pass synthesis without sacrificing their dignity 😜
+<a href="https://YOUR-PORTFOLIO-WEBSITE">
+<img src="https://img.shields.io/badge/Portfolio-Visit-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### 🧠 A bit about me
--🎯 A weird mix of VLSI nerd, design enthusiast, and robotics tinkerer—and proud of it.
+</p>
 
--💬 Always up for a conversation about circuits, code, or creative visuals.
+---
 
--🧃 Runs on playlists, simulation logs, and midnight creativity.
+# 🚀 What I'm Working On
 
+* 🌐 Building responsive websites and UI experiments
+* 📊 Practicing data analytics and visualization
+* 🧠 Exploring efficient workflows for development and analysis
+* ⚡ Turning ideas into quick prototypes and projects
 
-### 🧠 Tech Stack
-#### 💻 Programming & Scripting
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED1C24?style=for-the-badge&logo=verilog&logoColor=white)
+---
 
-#### ⚙️ Hardware Design & Verification Tools
-![UVM](https://img.shields.io/badge/UVM-007ACC?style=for-the-badge&logo=verilog&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-0099CC?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white)
-![Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+# 💻 Tech Stack
 
-### 🧩 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Programming & Web
 
-## 📊 GitHub Summary
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustav-Mukherjee&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Mukherjee&langs_count=20&layout=compact&theme=nord)
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+</p>
 
+### Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaustav-Mukherjee&theme=tokyo-night)
+### Data & Analytics
 
-### Fun Fact
-⭐️ *"Always in verification mode — both in code and in life."*
+<p>
 
+<img src="https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/PowerBI-333333?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=tableau"/>
+
+<img src="https://img.shields.io/badge/PopSQL-333333?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧰 Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
+
+<img src="https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Framer-333333?style=for-the-badge&logo=framer"/>
+
+<img src="https://img.shields.io/badge/Cursor-333333?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Antigravity-333333?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kaustav-Mukherjee&show_icons=true&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-Mukherjee&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustav-Mukherjee&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustav-Mukherjee&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project                  | Description                                         |
+| ------------------------ | --------------------------------------------------- |
+| Data Analytics Dashboard | Data visualization project using Power BI / Tableau |
+| Personal Portfolio       | Responsive website built with HTML, CSS, JS         |
+| SQL Data Exploration     | Data analysis using SQL queries and datasets        |
+
+---
+
+# ⭐ Fun Fact
+
+> Always debugging something — websites, dashboards, or life.

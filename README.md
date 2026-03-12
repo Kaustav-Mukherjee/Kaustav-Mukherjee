@@ -43,6 +43,25 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 ---
 
+# 🎓 Education
+
+**Master of Technology (M.Tech)**  
+Electronics & Telecommunication Engineering  
+Indian Institute of Engineering Science and Technology (IIEST), Shibpur  
+2024 – Present  
+
+**Bachelor of Technology (B.Tech)**  
+Electronics & Communication Engineering  
+Meghnad Saha Institute of Technology
+
+**Higher Secondary (Class XII)**  
+Nava Nalanda High School
+
+**Secondary (Class X)**  
+Nava Nalanda High School  
+
+---
+
 # 💻 Tech Stack
 
 ### Programming & Web

@@ -67,7 +67,7 @@ Nava Nalanda High School
 ### Programming & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js"/>
 </p>
 
 ### Databases

@@ -18,15 +18,15 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/kaustav-mukherjee-471a21219/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kaustavmukherjee2023@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO-WEBSITE">
+<a href="https://kaustavmukherjee.framer.website/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 

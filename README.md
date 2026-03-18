@@ -26,7 +26,7 @@ I enjoy turning ideas into simple web experiences and transforming messy dataset
 <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://kaustavmukherjee.framer.website/">
+<a href="https://kaustav-portfolio-v2.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 

@@ -142,18 +142,6 @@ Nava Nalanda High School
 
 </p>
 
----
-
-# 🌟 Featured Projects
-
-| Project                  | Description                                         |
-| ------------------------ | --------------------------------------------------- |
-| Data Analytics Dashboard | Data visualization project using Power BI / Tableau |
-| Personal Portfolio       | Responsive website built with HTML, CSS, JS         |
-| SQL Data Exploration     | Data analysis using SQL queries and datasets        |
-
----
-
 # ⭐ Fun Fact
 
 > Always debugging something — websites, dashboards, or life.

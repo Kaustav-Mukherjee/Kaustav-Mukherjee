@@ -48,13 +48,13 @@ kaustav@mukherjee ------------------------------------------------
 <p align="center">
   <br>
   <a href="https://github.com/Kaustav-Mukherjee/World-Layoffs-Exploratory-Data-Analysis-EDA-MySQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kaustav-Mukherjee&repo=World-Layoffs-Exploratory-Data-Analysis-EDA-MySQL&theme=dracula&hide_border=true&bg_color=0D1117" alt="World Layoffs Data Pipeline" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Kaustav-Mukherjee&repo=World-Layoffs-Exploratory-Data-Analysis-EDA-MySQL&theme=dracula&hide_border=true&bg_color=0D1117" alt="World Layoffs Data Pipeline" />
   </a>
   <a href="https://github.com/Kaustav-Mukherjee/Toronto_Airbnb_Market_Intelligence_End_2_End_Data_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kaustav-Mukherjee&repo=Toronto_Airbnb_Market_Intelligence_End_2_End_Data_Analysis&theme=dracula&hide_border=true&bg_color=0D1117" alt="Toronto Airbnb Project" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Kaustav-Mukherjee&repo=Toronto_Airbnb_Market_Intelligence_End_2_End_Data_Analysis&theme=dracula&hide_border=true&bg_color=0D1117" alt="Toronto Airbnb Project" />
   </a>
   <a href="https://github.com/Kaustav-Mukherjee/SQL-CODING">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kaustav-Mukherjee&repo=SQL-CODING&theme=dracula&hide_border=true&bg_color=0D1117" alt="SQL Coding" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=Kaustav-Mukherjee&repo=SQL-CODING&theme=dracula&hide_border=true&bg_color=0D1117" alt="SQL Coding" />
   </a>
   <br><br>
 </p>
@@ -66,10 +66,10 @@ kaustav@mukherjee ------------------------------------------------
 <p align="center">
   <br>
   <a href="https://github.com/Kaustav-Mukherjee">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaustav-Mukherjee&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaustav-Mukherjee&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Kaustav-Mukherjee">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustav-Mukherjee&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Kaustav-Mukherjee&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
   <br><br>
   <a href="https://github.com/Kaustav-Mukherjee">
